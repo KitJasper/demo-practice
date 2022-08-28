@@ -1,2 +1,2 @@
-# Demo
+# Henry's Programs
 Practice Programs
